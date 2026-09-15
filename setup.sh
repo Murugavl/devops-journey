@@ -15,3 +15,5 @@ else
     done
     echo "folder created successfully"
 fi
+
+# This script creates a project folder structure with logs, data, config, cache, and tmp subfolders
